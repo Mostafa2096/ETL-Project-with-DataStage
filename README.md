@@ -1,6 +1,6 @@
 # ETL-Project-with-DataStage
 
-This README is dedicated to optimizing ETL processes with a specialized focus on crafting efficient pipelines for data extraction, transformation, and loading.
+This Project is dedicated to optimizing ETL processes with a specialized focus on crafting efficient pipelines for data extraction, transformation, and loading.
 
 ## Project Overview
 
